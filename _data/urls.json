@@ -15,19 +15,20 @@
     "url": "/projects",
     "icon": "fa-desktop"
   },
-  {
+   {
     "text": "归档",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
+    "url": "/_posts",
+    "icon": "fa-graduation-cap"
   },
+ 
   {
-    "text": "Github",
-    "url": "/#",
+    "text": "分类",
+    "url": "/category",
     "icon": "fa-github"
   },
   {
     "text": "公益404",
-    "url": "/feed.xml",
+    "url": "/404.html",
     "icon": "fa-feed",
     "target": _blank
   }
