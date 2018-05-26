@@ -15,7 +15,14 @@ permalink: /about/
 
 	2018加油，做最好的自己！！！
 
-
+## 所授课程
+	Java 
+	Java EE
+	Html、CSS、JavaScript、JQuery、BootStrap
+	Excel、Excel VBA
+	Mysql、MsSQL、Oracle
+	Linux
+	
 
 ## 联系我
 	Email：397583050@qq.com
