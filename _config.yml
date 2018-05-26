@@ -1,12 +1,12 @@
 title: Yang Xiao
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
+author: Yang Xiao
+logo: /static/img/avatar.png
 github: https://github.com/mryang1688
 about: Java Teacher
 
-baseurl: "https://mryang1688.github.io/hcz-jekyll-blog"
-url: "https://mryang1688.github.io/hcz-jekyll-blog"
+baseurl: "https://mryang1688.github.io"
+url: "https://mryang1688.github.io
 
 allowsearch: true
 
