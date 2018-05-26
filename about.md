@@ -16,14 +16,23 @@ permalink: /about/
 
 	2018加油，做最好的自己！！！
 
-## 所授课程
-(1).3年以上 、精通Java语言，能够讲解Java SE中所有的知识点； 
-(2).熟练编写SQL语句，使用MySQL、Oracle、MSSQL中的一种或多种数据库； 
-(3).熟练掌握HTML、XML、CSS、JavaScript、AJAX、jQuery等WEB技术； 
-(4).熟练掌握Struts2、Spring、Hibernate等框架技术或其他相关框架技术； 
-(5).熟练掌握Bootstrap、AngularJS等前端框架技术； 
-(6).普通话标准，语言表达能力强，逻辑思维清晰，具有优秀的沟通技巧； 
-(7).有培训学校授课经验优先考虑。
+## 个人技能
+
+(1).精通Java语言，能够讲解Java SE中所有的知识点； 
+
+(2).熟练编写SQL语句，可使用MySQL、Oracle、MSSQL多种数据库； 
+
+(3).精通HTML、XML、CSS、JavaScript、AJAX、jQuery等WEB技术； 
+
+(4).熟练掌握Struts2、Spring、Hibernate、SpringMVC、Mybatis等框架技术或其他相关框架技术； 
+
+(5).熟练掌握Bootstrap、AngularJS、Vue.js等前端框架技术； 
+
+(6).熟练掌握SpringBoot 微服务架构开发技术；
+
+(7).精通网站建设及Seo搜索引擎优化技术；
+
+(8).熟练掌握新媒体营销模式课程讲解；
 	
 
 ## 联系我
