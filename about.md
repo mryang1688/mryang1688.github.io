@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About
+group: navigation
 permalink: /about/
 ---
 
-## JAVA讲师
+## 资深培训讲师
  * 授课年限：(2014-2~至今)
 
 	人生很短，江湖太大，目标还在，让我们在成长路上彼此祝福。
@@ -16,12 +17,13 @@ permalink: /about/
 	2018加油，做最好的自己！！！
 
 ## 所授课程
-	Java 
-	Java EE
-	Html、CSS、JavaScript、JQuery、BootStrap
-	Excel、Excel VBA
-	Mysql、MsSQL、Oracle
-	Linux
+	(1).3年以上 、精通Java语言，能够讲解Java SE中所有的知识点； 
+	(2).熟练编写SQL语句，使用MySQL、Oracle、MSSQL中的一种或多种数据库； 
+	(3).熟练掌握HTML、XML、CSS、JavaScript、AJAX、jQuery等WEB技术； 
+	(4).熟练掌握Struts2、Spring、Hibernate等框架技术或其他相关框架技术； 
+	(5).熟练掌握Bootstrap、AngularJS等前端框架技术； 
+	(6).普通话标准，语言表达能力强，逻辑思维清晰，具有优秀的沟通技巧； 
+	(7).有培训学校授课经验优先考虑。
 	
 
 ## 联系我
