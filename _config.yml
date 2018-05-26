@@ -1,8 +1,8 @@
-title:杨校老师的博客
+title:Yang Xiao
 description: YangXiao's Blog
-author: YangXiao
+author: Yang Xiao
 logo: http://mryang1688.github.io/static/img/avatar.png
-github: https://mryang1688.github.io
+github: https://github.com/mryang1688/mryang1688.github.io
 about: Java Teacher
 
 baseurl: "https://mryang1688.github.io"
@@ -26,3 +26,4 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
+permalink: /:categories/:year/:month/:day/:title 
