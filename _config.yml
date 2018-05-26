@@ -1,8 +1,8 @@
 title:Yang Xiao
 description: My Personal Blog
 author: Yang Xiao
-logo: http://mryang1688.github.io/static/img/avatar.png
-github: https://github.com/mryang1688/mryang1688.github.io
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
 about: Java Teacher
 
 baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
