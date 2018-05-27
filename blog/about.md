@@ -5,39 +5,45 @@ key: page-about
 ---
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
-My Name is Tian Qi (You can also call me Thomas Tian), I am a ~~frontend engineer~~ development engineer working at [Qunar.com](https://www.qunar.com) in Beijing.
 
-## Skills
+### 资深培训讲师
 
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
-- React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
+工作：(2014-02 ~ 至今)
+
+人生很短，江湖太大，目标还在，让我们在成长路上彼此祝福。
+
+其实我们每个人的生活都是一个世界， 即使最平凡的人也要为他生活的那个世界努力。
+
+有一种力量无人能抵挡，它永不言败生来倔强。有一种理想照亮了迷茫，在那写满荣耀的地方。
+
+2018加油，做最好的自己！！！
 
 <!--more-->
 
-## About Me | 关于我
+### Content Me | 联系我
 
-你们好，我叫田琦，这是我的博客。
+Email：397583050@qq.com
 
-我崇尚 Geek 精神与开源文化 :octocat:，喜欢简洁、优美、模块化的代码。爱折腾，折腾系统，折腾软件，折腾语言，折腾框架……生命不息，折腾不止。:muscle:
+mobWeChat：mryang511688
 
-平时喜欢看小说，看漫画 :books:。没事跑跑步 :runner:，看看电影 :movie_camera: ，聚个餐 :rice: :notes:。一个很普通的开发者。:see_no_evil:
+### About  Emotional  | 关于情感
 
-感谢计算机给我们提供了一个完美的试验场，这里没有太多的约束，就像*我的世界*一样，是一片自由的乌托邦之地。在这里，我们可以让想象力 :thought_balloon: 自由驰骋 :rocket:，让计算机完成我们想到的事。我认为，将计算机世界和现实世界连接起来 :computer: :link: :earth_asia: 是我等猿族的使命。
+书写是在寻找一种情绪抑或宣泄一种情绪。每个人都一个文字梦，总有一些想表达但却不太想被传播的想法，或许只是给自己，抑或只是想给自己最想被看到的人。
 
-如果你有任何问题，请给我发送邮件：[kitian616@outlook.com](mailto:kitian616@outlook.com)
+### About Technology | 关于技术
 
-## Some Links | 相关链接
+并不是因为我需要用到什么领域的知识而去学习，而只是单纯的我想知道，我想弄明白。搞明白之后，到底有什么价值，可以创造多少财富，这是我从来不关心的。反而这样，知识给予的回馈是最大的。
 
-- [About This Blog](/blog/2015/10/14/about-this-blog.html)
+### About WebSite | 关于本站
 
-- [Site Log](/blog/site-log.html)
 
-- [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) [![GitHub stars](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?style=social&label=Stars)]()
+好记性不如烂笔头，健忘是再正常不过的事情了，当然有些东西想跟做又是一会事，所以就有了它。一个记录生活，技术、人生的地方。
 
----
+在工作中我们或多或少都会遇到这样那样的问题，java语言博大精深，即便是java大牛也不敢称自己什么都知道，什么都会。
 
-- [dwb-blog](http://dwbbb.com/)
+而博客建立的目的就是将我们在网上或者自己写的精华的博文分享给大家，互通有无，共同进步，希望每一个加入这个平台的童鞋如果感觉自己从这个平台学到了知识，
 
-- [venoral's blog](http://www.cnblogs.com/venoral)
+认为这个平台还值得去告诉自己的小伙伴的话，不妨给大家分享一下，让我们传播给更多的人去看，去学习，让大家共同鉴证我们的成长。
+
+
+
