@@ -20,7 +20,7 @@ paths:
   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-repository: kitian616/kitian616.github.io
+repository: mryang1688/mryang1688.github.io
 repository_tree: master
 
 ## Language & timezone ##
@@ -30,18 +30,18 @@ timezone: Asia/Shanghai
 ## Author & social ##
 author:
   name: "Yang Xiao"
-  email: kitian616@outlook.com
+  email: mryang@mingyang888.cn
   # facebook:  #your Facebook username
-  twitter: kitian616
-  github:  kitian616
+  twitter: mryang1688
+  github:  mryang1688
   googleplus: 101827554735084402671
   weibo: 234695683
-  douban: kitian616
+  douban: mryang1688
   # linkedin:  #your Linkedin username
 
 ## Comment system (Disqus) ##
 disqus:
-  shortname: kitian616-github-io #the Disqus shortname for the site
+  shortname: mryang1688-github-io #the Disqus shortname for the site
 
 ## Google Analytics ##
 ga_tracking_id: UA-71907556-1 #Google analytics id for the site
