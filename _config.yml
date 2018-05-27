@@ -1,22 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-#
-# ,--------.      ,--.   ,--. ,--.
-# '--.  .--',---.  \  `.'  /,-'  '-.
-#    |  |  | .-. :  .'    \ '-.  .-'
-#    |  |  \   --. /  .'.  \  |  |
-#    `--'   `----''--'   '--' `--'
-
-## Base settings ##
-url: https://tianqi.name #the base hostname & protocol for your site e.g. https://www.someone.com
+##
+url: https://mryang1688.github.io #the base hostname & protocol for your site e.g.
 baseurl: /
 title: Qi's Blog
 description: > #this means to ignore newlines until "nav_lists:"
-    Tian Qi's Blog | 田琦的博客
+    Yang Xiao's Blog | 杨校的博客
 
 nav_lists:
   - titles:
@@ -42,7 +29,7 @@ timezone: Asia/Shanghai
 
 ## Author & social ##
 author:
-  name: "Tian Qi"
+  name: "Yang Xiao"
   email: kitian616@outlook.com
   # facebook:  #your Facebook username
   twitter: kitian616
