@@ -1,7 +1,7 @@
-# yangxiao.name
+# tianqi.name
 
 My Personal Website:
 
-Visit => [yangxiao.name](https://yangxiao.name).
+Visit => [tianqi.name](https://tianqi.name).
 
-Powered by [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/mryang1688).
+Powered by [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
