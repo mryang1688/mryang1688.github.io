@@ -46,18 +46,22 @@ author:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk
+  provider: disqus
+  disqus:
+    shortname: mryang1688-github-io
+#comments:
+  #provider: gitalk
   #disqus:
   #  shortname: kitian616-github-io
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 5fed5de2a07133966956                            #生成的clientID
-  clientSecret: 4fc5ea8df05c90d3f6ea4f8f98f6be2a8cf57ddf    #生成的clientSecret
-  repo: mryang1688.github.io    #仓库名称
-  owner: mryang1688    #github用户名
-  admin: mryang1688
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+  #clientID: 5fed5de2a07133966956                            #生成的clientID
+  #clientSecret: 4fc5ea8df05c90d3f6ea4f8f98f6be2a8cf57ddf    #生成的clientSecret
+  #repo: mryang1688.github.io    #仓库名称
+  #owner: mryang1688    #github用户名
+  #admin: mryang1688
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 ## Google Analytics ##
@@ -111,7 +115,7 @@ plugins:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: mryang1688
+#disqus_username: mryang1688
 
 
 ## Server ##
