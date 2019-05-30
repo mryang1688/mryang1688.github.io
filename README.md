@@ -1,7 +1,7 @@
-# mryang1688.name
+# mryang1688.github.io
 
 My Personal Website:
 
-Visit => [tianqi.name](https://tianqi.name).
+Visit => [mryang1688.github.io](https://mryang1688.github.io).
 
-Powered by [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
+Powered by  [MySimpleText Theme](https://github.com/mryang1688.github.io).
