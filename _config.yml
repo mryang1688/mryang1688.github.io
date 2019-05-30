@@ -92,6 +92,21 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+# 评论系统
+# Disqus（https://disqus.com/）
+disqus_username: mryang1688
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 5fed5de2a07133966956                            #生成的clientID
+  clientSecret: 4fc5ea8df05c90d3f6ea4f8f98f6be2a8cf57ddf    #生成的clientSecret
+  repo: mryang1688.github.io    #仓库名称
+  owner: mryang1688    #github用户名
+  admin: mryang1688
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+  
 ## Server ##
 server_url: "0.0.0.0"
 port: 4001
