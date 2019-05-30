@@ -40,8 +40,25 @@ author:
   # linkedin:  #your Linkedin username
 
 ## Comment system (Disqus) ##
-disqus:
-  shortname: mryang1688-github-io #the Disqus shortname for the site
+#disqus:
+#  shortname: mryang1688-github-io #the Disqus shortname for the site
+
+## => Comments
+##############################
+comments:
+  provider: gitalk
+  #disqus:
+  #  shortname: kitian616-github-io
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 5fed5de2a07133966956                            #生成的clientID
+  clientSecret: 4fc5ea8df05c90d3f6ea4f8f98f6be2a8cf57ddf    #生成的clientSecret
+  repo: mryang1688.github.io    #仓库名称
+  owner: mryang1688    #github用户名
+  admin: mryang1688
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 
 ## Google Analytics ##
 ga_tracking_id: UA-71907556-1 #Google analytics id for the site
@@ -96,17 +113,7 @@ plugins:
 # Disqus（https://disqus.com/）
 disqus_username: mryang1688
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 5fed5de2a07133966956                            #生成的clientID
-  clientSecret: 4fc5ea8df05c90d3f6ea4f8f98f6be2a8cf57ddf    #生成的clientSecret
-  repo: mryang1688.github.io    #仓库名称
-  owner: mryang1688    #github用户名
-  admin: mryang1688
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
-  
 ## Server ##
 server_url: "0.0.0.0"
 port: 4001
